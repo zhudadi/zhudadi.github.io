@@ -4,6 +4,15 @@
 
 ![bailuzhou](/image/bailuzhou.jpg)
 
+<table>
+    <tr>
+    	<td><center><img src="D:\image\zhudadi.jpg">朱大地</center></td>
+        <td><center><img src="D:\image\fanshuai.jpg">范帅</center></td>
+        <td><center><img src="D:\image\fengjiadong.jpg">冯嘉东</center></td>
+        <td><center><img src="D:\image\xuzequan.jpg">许泽铨</center></td>
+    </tr>
+</table>
+
 ### 讲座内容
 
 | 序号 |                 论文题目                 |       出版物名称或获奖信息       |  姓名  | 学生类别 |
