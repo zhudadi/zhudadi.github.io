@@ -6,7 +6,7 @@
 
 <table>
     <tr>
-    	<td><center><img src="https://github.com/zhudadi/zhudadi.github.io/blob/main/image/zhudadi.jpg">朱大地</center></td>
+    	<td><center><img src="https://github.com/zhudadi/zhudadi.github.io/blob/main/image/zhudadi.jpg"></center><center>朱大地</center></td>
         <td><center><img src="https://github.com/zhudadi/zhudadi.github.io/blob/main/image/fanshuai.jpg">范帅</center></td>
         <td><center><img src="https://github.com/zhudadi/zhudadi.github.io/blob/main/image/fengjiadong.jpg">冯嘉东</center></td>
     </tr>
