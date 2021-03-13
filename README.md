@@ -6,9 +6,9 @@
 
 <table>
     <tr>
-    	<td><center><img src="https://github.com/zhudadi/zhudadi.github.io/blob/main/image/zhudadi.jpg">朱大地<br>推荐系统攻击</center></td>
-        <td><center><img src="https://github.com/zhudadi/zhudadi.github.io/blob/main/image/fanshuai.jpg">范帅<br>序列推荐</center></td>
-        <td><center><img src="https://github.com/zhudadi/zhudadi.github.io/blob/main/image/fengjiadong.jpg">冯嘉东<br>数据库</center></td>
+    	<td><center><img src="/image/zhudadi.jpg">朱大地<br>推荐系统攻击</center></td>
+        <td><center><img src="/image/fanshuai.jpg">范帅<br>序列推荐</center></td>
+        <td><center><img src="/image/fengjiadong.jpg">冯嘉东<br>数据库</center></td>
     </tr>
 </table>
 
